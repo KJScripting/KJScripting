@@ -7,7 +7,7 @@
 - 🔭 I have just started using github!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators...
-- 🥅 2021 Goals: Reaching 5k peoples in our discord!
+- 🥅 2022 Goals: Reaching 5k peoples in our discord!
 - ⚡ Fun fact: We share most of our applications sources codes here.
 
 

@@ -12,8 +12,6 @@
 
 
 ### Connect with us:
-
-[<img align="left" alt="https://discord.gg/cr6jEYMj3J" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="K & J | Scripting | Discord server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 
 <br/>
@@ -53,7 +51,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="K & J | Scripting's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=K & J | Scripting&show_icons=true&theme=tokyonight" />
+  <img align="left" alt="K & J | Scripting's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KJScripting&show_icons=true&theme=tokyonight" />
 
 <br/>
 <br/>
